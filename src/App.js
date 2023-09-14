@@ -1,10 +1,12 @@
-import './App.css';
+import Nav from "./Components/Nav/Nav";
+import Wrapper from "./Wrapper";
 
 function App() {
   return (
-    <div>
-
-    </div>
+    <>
+      <Nav/>
+      <Wrapper/>
+    </>
   );
 }
 
