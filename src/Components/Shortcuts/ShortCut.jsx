@@ -1,13 +1,13 @@
 import React from 'react'
 
-export default function ShortCut() {
+export default function ShortCut({image, title}) {
     return (
         <div className="menu-item">
             <div className="item-row">
                 <div className="icon">
-                    <img src="img/stories/st-1.jpeg" alt="" />
+                    <img src={image} alt="" />
                 </div>
-                <h4>Designers house </h4>
+                <h4>{title} </h4>
             </div>
         </div>
     )
