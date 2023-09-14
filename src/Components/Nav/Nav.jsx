@@ -3,7 +3,6 @@ import React from 'react'
 export default function Nav() {
   return (
     <nav>
-      {/*logo and search*/}
       <div className="left-side">
         <div className="logo">
           <img src="img/icons/facebook.svg" alt="" />
@@ -12,7 +11,7 @@ export default function Nav() {
           <input type="text" placeholder="Search Facebook" name="" id="" />
         </div>
       </div>
-      {/*tab icons*/}
+      
       <div className="tabs">
         <div className="tab-icon active">
           <div className="icon">
