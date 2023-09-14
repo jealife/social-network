@@ -11,7 +11,7 @@ export default function Contacts() {
             <Contact avatar='img/avatar/4.jpg' name='stacy jr.' />
             <Contact avatar='img/avatar/5.jpg' name='christin sam' />
             <Contact avatar='img/avatar/6.jpg' name='kate simon' />
-            <Contact avatar='img/avatar/7.jpg' name='diana berry' />
+            <Contact avatar='img/avatar/1.jpg' name='diana berry' />
         </div>
     )
 }
