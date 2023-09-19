@@ -1,7 +1,7 @@
 import React from 'react'
 import Story from './Story'
 
-export default function Stries() {
+export default function Stories() {
   return (
     <div className="stories">
       <div className="owl-controls">
@@ -26,11 +26,11 @@ export default function Stries() {
           </div>
         </div>
 
-        <Story avatar=" img/avatar/2.jpg" st="img/avatar/st-2" name="samantha john" />
-        <Story avatar=" img/avatar/3.jpg" st="img/avatar/st-3" name="Omar yassir" />
-        <Story avatar=" img/avatar/4.jpg" st="img/avatar/st-4" name="amanda cerny" />
-        <Story avatar=" img/avatar/5.jpg" st="img/avatar/st-5" name="stacy lopez" />
-        <Story avatar=" img/avatar/6.jpg" st="img/avatar/st-1" name="joshua simon" />
+        <Story avatar=" img/avatar/2.jpg" st="img/stories/st-2.jpeg" name="samantha john" />
+        <Story avatar=" img/avatar/3.jpg" st="img/stories/st-3.jpeg" name="Omar yassir" />
+        <Story avatar=" img/avatar/4.jpg" st="img/stories/st-1.jpeg" name="amanda cerny" />
+        <Story avatar=" img/avatar/5.jpg" st="img/stories/st-3.jpeg" name="stacy lopez" />
+        <Story avatar=" img/avatar/6.jpg" st="img/stories/st-1.jpeg" name="joshua simon" />
 
       </div>
     </div>
