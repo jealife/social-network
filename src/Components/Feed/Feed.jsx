@@ -142,6 +142,8 @@ export default function Feed() {
             </div>
           </div>
         </div>
+
+
         <div className="create-post view smaller-margin">
           <div className="upper">
             <div className="title">
@@ -211,6 +213,8 @@ export default function Feed() {
             </div>
           </div>
         </div>
+
+
         <div className="view view-post-container smaller-margin">
           <div className="view-post">
             <div className="upper">
@@ -278,6 +282,9 @@ export default function Feed() {
             </div>
           </div>
         </div>
+
+
+
         <div className="view friends smaller-margin">
           <div className="upper">
             <h6>people you may know</h6>
@@ -332,6 +339,8 @@ export default function Feed() {
             </div>
           </div>
         </div>
+
+        
       </div>
     </div>
 
